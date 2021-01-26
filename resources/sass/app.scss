@@ -1,0 +1,21 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+body{
+    background-color: #ffb6c1;
+}
+
+nav{
+    background-color: #c71585;
+}
+
+.bg-color-card{
+    background-color: #ff69b4;
+
+}
